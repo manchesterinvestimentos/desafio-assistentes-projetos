@@ -3,46 +3,72 @@
 Desafio: Assistente de Projetos - Metodologia Scrum
 Objetivo: Avaliar suas habilidades em organização, pensamento crítico e aplicação prática do Scrum no acompanhamento e gestão de projetos em um escritório de investimentos.
 
-## Organização de um Backlog
-Você recebeu o seguinte backlog inicial para um projeto de criação de uma nova plataforma de gestão de carteiras de investimento.
+## Planejamento de Sprint (Sprint Planning)
+O Product Owner trouxe os seguintes itens do backlog para discussão na reunião de planejamento:
 
-### Items do Backlog:
-Definir os requisitos da plataforma com stakeholders.
-
-Configurar ambiente de desenvolvimento.
-Criar wireframes das principais telas.
-Implementar o módulo de cadastro de clientes.
-Realizar testes iniciais do módulo de cadastro.
-Preparar a apresentação para investidores sobre o progresso do projeto.
-Tarefa:
-Organize os itens acima com base no seguinte critério:
-
-### Prioridade para entregar valor ao cliente.
-Tarefas dependentes (identificar o que depende de outras tarefas).
-Estimativa de tempo (crie estimativas iniciais de alta, média ou baixa complexidade).
-Entregue um backlog priorizado e justifique suas escolhas.
-
-## Simulação de uma Daily Scrum
-Imagine que você está em uma Daily Scrum com o time de desenvolvimento e precisa relatar o status das suas atividades e identificar impedimentos.
+1. Configurar um dashboard com indicadores de performance de carteiras.
+2. Implementar o módulo de notificação de alertas financeiros.
+3. Criar mockups para a nova funcionalidade de simulação de investimentos.
+4. Realizar testes de segurança no sistema de autenticação.
 
 ### Tarefa:
-Responda às três perguntas básicas de uma Daily Scrum:
 
-O que você fez ontem para ajudar o time a alcançar a meta do Sprint?
-O que você planeja fazer hoje?
-Há algo impedindo seu progresso?
-Simule as respostas com base no contexto de um projeto de automação de relatórios financeiros no escritório.
+#### Estruture o passo a passo da cerimônia de Sprint Planning:
+
+1. Quais seriam as etapas para planejar a próxima Sprint, considerando a presença do Product Owner, Scrum Master e time de desenvolvimento?
+2. Como você garantiria que todos compreendam o Sprint Goal?
+3. Que técnicas ou ferramentas utilizaria para ajudar o time a selecionar os itens do backlog que comporão o Sprint Backlog?
+
+#### Baseado no backlog apresentado:
+
+1. Selecione os itens que fariam parte do Sprint Backlog para um Sprint de 2 semanas.
+2. Defina uma meta clara para o Sprint (Sprint Goal).
+3. Explique como sua seleção reflete a capacidade do time e o alinhamento com as prioridades do projeto.
+
+#### Explique como você organizaria as tarefas do Sprint Backlog:
+
+1. Como garantir que as tarefas estão devidamente detalhadas e que não há dúvidas sobre os critérios de aceitação?
+2. Como você organizaria o quadro Kanban ou ferramenta de acompanhamento para monitorar o progresso do time?
+
+## Simulação de uma Daily Scrum
+Imagine que você está em uma Daily Scrum e precisa acompanhar o progresso das tarefas para garantir que o Sprint Goal será alcançado. O cenário atual é o seguinte:
+
+1. Um desenvolvedor completou a configuração do dashboard, mas precisa de revisão técnica.
+2. O módulo de notificações ainda não começou porque falta documentação da API.
+3. O mockup da funcionalidade de simulação está 80% concluído, mas o designer enfrentou dúvidas sobre requisitos.
+4. Os testes de segurança começaram, mas foram interrompidos devido a um erro de configuração no ambiente.
+
+### Tarefa:
+
+#### Elabore o resumo do status das tarefas baseado nas três perguntas da Daily Scrum:
+
+1. O que foi feito?
+2. O que será feito hoje?
+3. Existe algum impedimento?
+
+#### Sugira como priorizar os próximos passos para manter o Sprint no caminho certo.
 
 ## Resolução de um Impedimento
 Durante o Sprint, um dos desenvolvedores informou que não conseguiu concluir uma tarefa porque precisa de acesso a uma ferramenta específica que ainda não foi liberada pelo time de TI. Isso está atrasando a conclusão de um dos principais itens do Sprint.
 
+## Retrospectiva de Sprint (Sprint Retrospective)
+
+O Sprint foi concluído, mas houve problemas que afetaram a eficiência do time:
+
+1. Falta de clareza nos requisitos do módulo de notificações.
+2. Retrabalho nos mockups por falta de alinhamento inicial.
+3. Baixa participação dos stakeholders durante o Sprint.
+
 ### Tarefa:
 
-Descreva como você agiria para resolver esse impedimento.
-Como você manteria o Product Owner e o Scrum Master informados durante o processo?
+1. Liste 3 aspectos do Sprint que foram positivos (o que funcionou bem).
+2. Identifique 3 pontos a serem melhorados (o que não funcionou bem).
+3. Sugira pelo menos 2 ações concretas para melhorar o próximo Sprint.
 
-## Entrega:
+### Entrega:
 
 Formato: Documento em PDF ou apresentação (máximo de 3 páginas/slides).
 Prazo: Conforme combinado
 Critérios de avaliação: Clareza, objetividade, aplicação dos conceitos de Scrum, e capacidade de resolver problemas e priorizar tarefas.
+
+Por fim, envie o link do seu material para seu contato Manchester Investimentos com cópia para rh@manchesterinvest.com.br.
